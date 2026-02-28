@@ -1,1 +1,1 @@
-This is a java program that checks a file for a club, outputs total games played, total games won and lost.
+This project features a specialized Java class designed to represent a single "row" of data in a sports tournament or league system. It demonstrates the use of Data Encapsulation and Immutable-style patterns to handle match results between two clubs.
